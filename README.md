@@ -1,2 +1,0 @@
-# SimaoX
-Para iniciantes
